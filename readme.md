@@ -1,7 +1,5 @@
 # 🐍 Python Beginner Projects
 
-![Python Project Challenges Plan](images/python-project-challenges.png)
-
 ### From Python Beginner to Confident Developer 🚀
 
 Welcome to my Python Beginner Projects repository!
