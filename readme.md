@@ -1,4 +1,4 @@
-# 🐍 Python Beginner Projects
+# 🐍 Python Beginner Level
 
 ### From Python Beginner to Confident Developer 🚀
 
